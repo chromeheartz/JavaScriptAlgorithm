@@ -1,3 +1,20 @@
+// **** JavaScript에서의 사용법 ****
+
+// * Array로 구현 *
+const stackArray = [];
+
+// Push 
+stackArray.push(1);
+stackArray.push(2);
+stackArray.push(3);
+console.log(stackArray); // [1, 2, 3]
+
+// Pop
+stackArray.pop();
+console.log(stackArray); // [1, 2]
+
+// Get Top
+console.log(stackArray[stackArray.length -1]); // 2
 
 // * Linked List로 구현 *
 class Node {
