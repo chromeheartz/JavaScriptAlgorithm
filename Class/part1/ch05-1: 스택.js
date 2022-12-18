@@ -48,7 +48,7 @@
   이 경우에는 연결리스트의 Head가 Stack의 Top이 된다
 
   **** JavaScript에서의 사용법 ****
-  **** Logic/stack.js ****
+  **** Logic/part1/stack.js ****
 
   - Array로 구현
   자바스크립트 배열엔 이미 push, pop이 존재하기 때문에 크게 할 일이 없다

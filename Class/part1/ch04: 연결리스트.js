@@ -89,6 +89,6 @@
   Singly 혹은 Doubly Linked List에서 Tail이 Head로 연결되는 리스트
   메모리를 아껴쓸 수 있으며, '원형 큐'등을 만들때에도 사용된다
 
-  **** JavaScript의 단일 연결리스트 구현은 Logic/singlyLinkedList.js ****
+  **** JavaScript의 단일 연결리스트 구현은 Logic/part1/singlyLinkedList.js ****
 
 */
