@@ -1,4 +1,4 @@
-/* _____________ LV0 리스트 자르기 _____________ */
+/* _____________ LVB 리스트 자르기 _____________ */
 
 /*
   ** 문제 설명 **
@@ -36,7 +36,7 @@ function solution(n, slicer, num_list) {
   const [a, b, c] = slicer;
   let result = [];
   
-  switch(n) {
+  switch(n) { 
       case 1:
           result = num_list.slice(0, b + 1)
           break;
