@@ -25,17 +25,7 @@
   n : costs : return
   4 : [[0,1,1],[0,2,2],[1,2,5],[1,3,1],[2,3,8]] : 4
 
-  * 입출력 예 설명 *
-
-  - 입출력 예 #1
-
-    1부터 10 사이의 소수는 [2,3,5,7] 4개가 존재하므로 4를 반환
-
-  - 입출력 예 #2
-
-    1부터 5 사이의 소수는 [2,3,5] 3개가 존재하므로 3를 반환
-
-  문제 링크 : https://school.programmers.co.kr/learn/courses/13213/lessons/91385
+  문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/42861
 */
 
 function find(parent, x) {
